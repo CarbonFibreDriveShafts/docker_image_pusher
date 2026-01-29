@@ -11,6 +11,6 @@
 --platform=linux/arm64 dreamacro/clash
 #--platform=linux/arm64 homeassistant/home-assistant
 #--platform=linux/arm64 jrottenberg/ffmpeg
---platform=linux/arm64 haishanh/yade
+#--platform=linux/arm64 haishanh/yade
 #ghcr.io/haishanh/yacd:master@sha256:0485e4e15bafcc79bcc12fd46f41b0788018ea185817616d2e1f514cb7965fca
 #--platform=linux/arm64 lkw199711/smanga
